@@ -23,7 +23,7 @@ header .container{
 }
 
 .inicial{
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/Projeto/img/capa4.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa4.jpg');
     background-size: cover;
     height: 500px;
 }
