@@ -1,0 +1,12 @@
+@media screen and (max-width: 600px){
+    .inicial{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 1000px){
+   .sinopse{
+       margin-left: 50%;
+    }
+}
